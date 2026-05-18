@@ -107,18 +107,25 @@ The analysis was conducted using PostgreSQL and included:
 The dashboard was designed as an executive-level NGO intelligence solution consisting of four analytical pages.
 ### Dashboard Page 1 — Executive Overview
    Key KPIs
-      - Total Donations
-      - Total Donor Transactions
-      - Total Donors
-      - Average Impact Score
-      - Total Operational Regions
-      - Total Initiatives
+   - Total Donations
+   - Total Donor Transactions
+   - Total Donors
+   - Average Impact Score
+   - Total Operational Regions
+   - Total Initiatives
    Visualizations
-      - Donation Trend Analysis
-      - Funding Distribution by Donor Type
+   - Donation Trend Analysis
+   - Funding Distribution by Donor Type
 ### Dashboard Page 2 — Funding & Donor Analysis
    Visualizations
    - 15 Top-Funded Initiatives
    - Funding Distribution Across Regions   
-
+### Dashboard Page 3 — Impact & Operational Performance
+   Visualizations
+   - Top 15 Initiatives By Impact Efficiency
+   - Regional Impact Score
+### Dashboard Page 4 — Strategic Grant Readiness
+   Visualizations
+   - Region-Based Funds Level
+   - Top 30 Low-Funded Initiatives
   
