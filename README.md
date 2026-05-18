@@ -59,3 +59,12 @@ The dataset contains operational and donation records from 2020 to 2022 across t
    - Key Fields - donor_id, donor_name, donor_type
    - Business Meaning - Represents funding partners, including individuals, organizations, and corporate entities.
 
+## Entity Relationship Overview
+The database follows a relational structure:
+   - One donor can make multiple donations
+   - One initiative can receive multiple donations
+   - Donations serve as the transactional bridge between donors and initiatives
+
+![erd_iamge](https://github.com/olasunkanmitheCoder/GoodThought-NGO-Impact-Analysis/blob/main/ERD_diagram.jpeg)
+> > ERD Diagram
+
