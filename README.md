@@ -49,5 +49,7 @@ The dataset contains operational and donation records from 2020 to 2022 across t
 
 1. Assignments Table
 Contains information about humanitarian initiatives.
--- Key Fields - assignment_id, assignment_name, start_date, end_date, budget, region, impact_score
--- Business Meaning - Represents NGO programs, interventions, and operational initiatives(assignment) executed across various regions.
+- Key Fields - assignment_id, assignment_name, start_date, end_date, budget, region, impact_score
+- Business Meaning - Represents NGO programs, interventions, and operational initiatives(assignment) executed across various regions.
+
+
