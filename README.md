@@ -18,7 +18,7 @@ This project simulates a real-world NGO analytics consulting engagement where da
 
 ## Business Problem Statement
 
-GoodThought NGO has experienced increasing operational complexity across multiple humanitarian initiatives and geographical regions. While the organization has successfully attracted donor funding over the years, leadership requires deeper insight into how financial resources are being allocated, how effectively initiatives are generating measurable social impact, and which operational areas should be prioritized for future funding.
+GoodThought NGO has experienced increasing operational complexity across multiple humanitarian initiatives and geographical regions. While the organization has successfully attracted donor funding over the years, leadership requires deeper insight into how financial resources are allocated, how effectively initiatives generate measurable social impact, and which operational areas should be prioritized for future funding.
 
 The management team is particularly interested in understanding:
 - Which initiatives attract the highest donor investment
@@ -28,7 +28,7 @@ The management team is particularly interested in understanding:
 - How efficiently the organization converts financial resources into measurable impact
 - Which initiatives should be prioritized in future international grant proposals
 
-As a Data Analyst, my responsibility is to transform operational and donation data into actionable business intelligence that supports strategic decision-making and strengthens GoodThought NGO’s grant application capabilities.
+As a Data Analyst, my responsibility is to transform operational and donation data into actionable business intelligence to support strategic decision-making and strengthen GoodThought NGO’s grant-application capabilities.
 
 
 ## Project Objectives
@@ -42,3 +42,12 @@ Specific objectives include:
 - Measure organizational impact efficiency
 - Develop strategic recommendations for future grant prioritization
 - Build an executive-level interactive dashboard for stakeholders
+
+
+## Dataset Overview
+The dataset contains operational and donation records from 2020 to 2022 across three relational PostgreSQL tables with 5000 rows each.
+
+1. Assignments Table
+Contains information about humanitarian initiatives.
+-- Key Fields - assignment_id, assignment_name, start_date, end_date, budget, region, impact_score
+-- Business Meaning - Represents NGO programs, interventions, and operational initiatives(assignment) executed across various regions.
