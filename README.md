@@ -47,10 +47,15 @@ Specific objectives include:
 ## Dataset Overview
 The dataset contains operational and donation records from 2020 to 2022 across three relational PostgreSQL tables with 5000 rows each.
 
-1. Assignments Table
-   
-  Contains information about humanitarian initiatives.
-  - Key Fields - assignment_id, assignment_name, start_date, end_date, budget, region, impact_score
-  - Business Meaning - Represents NGO programs, interventions, and operational initiatives(assignment) executed across various regions.
+1. Assignments Table - Contains information about humanitarian initiatives.
+   - Key Fields - assignment_id, assignment_name, start_date, end_date, budget, region, impact_score
+   - Business Meaning - Represents NGO programs, interventions, and operational initiatives(assignment) executed across various regions.
 
+2. Donations Table - Contains records of financial contributions.
+   - Key Fields - donation_id, donor_id, amount, donation_date, assignment_id
+   - Business Meaning - Represents donor funding transactions allocated toward initiatives(assignment).
+
+3. Donors Table - Contains donor information.
+   - Key Fields - donor_id, donor_name, donor_type
+   - Business Meaning - Represents funding partners, including individuals, organizations, and corporate entities.
 
