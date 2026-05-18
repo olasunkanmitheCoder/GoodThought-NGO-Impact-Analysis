@@ -68,3 +68,57 @@ The database follows a relational structure:
 ![erd_iamge](https://github.com/olasunkanmitheCoder/GoodThought-NGO-Impact-Analysis/blob/main/ERD_diagram.jpeg)
 > > ERD Diagram
 
+## Data Preparation & Validation
+### Validation Activities Performed
+   - Missing Value Checks - Validated critical fields across all tables to identify null or incomplete records.
+   - Duplicate Record Detection - Checked for duplicate donation transactions and repeated donor records.
+   - Foreign Key Integrity Validation - Validated relationships between donations, donors, and initiatives.
+   - Invalid Budget Detection - Identified assignments containing negative budget values.
+   - Invalid Date Range Validation - Detected initiatives where end dates occurred before start dates.
+
+## Analytical Business Questions
+### Funding & Donor Analysis
+1. Which humanitarian initiatives attracted the highest levels of donor investment across different donor categories?
+2. How have donor contribution trends evolved from 2020 to 2022?
+3. Which donor segments contribute most significantly toward high-impact initiatives?
+4. Which donor categories demonstrate the strongest long-term funding behavior?
+5. How equitably are donor funds distributed across GoodThought’s operational regions?
+   
+### Impact & Operational Performance
+6. Which initiatives achieve the highest impact outcomes while maintaining budget efficiency?
+7. Which initiatives generate the highest social impact relative to donated funds received?
+8. Which regions appear underfunded despite demonstrating strong impact potential?
+
+### Strategic Grant Readiness
+9. Which initiatives should GoodThought prioritize in future international grant proposals?
+
+## SQL Analysis Framework
+The analysis was conducted using PostgreSQL and included:
+   - Aggregate functions
+   - Common Table Expressions (CTEs)
+   - Joins
+   - Window functions
+   - KPI calculations
+   - Funding efficiency metrics
+   - Regional performance analysis
+   - Donor segmentation analytics
+
+## Power BI Dashboard Structure
+The dashboard was designed as an executive-level NGO intelligence solution consisting of four analytical pages.
+### Dashboard Page 1 — Executive Overview
+   Key KPIs
+      - Total Donations
+      - Total Donor Transactions
+      - Total Donors
+      - Average Impact Score
+      - Total Operational Regions
+      - Total Initiatives
+   Visualizations
+      - Donation Trend Analysis
+      - Funding Distribution by Donor Type
+### Dashboard Page 2 — Funding & Donor Analysis
+   Visualizations
+      - 15 Top-Funded Initiatives
+      - Funding Distribution Across Regions   
+
+  
