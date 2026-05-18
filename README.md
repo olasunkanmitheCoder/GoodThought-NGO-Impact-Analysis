@@ -118,7 +118,7 @@ The dashboard was designed as an executive-level NGO intelligence solution consi
       - Funding Distribution by Donor Type
 ### Dashboard Page 2 — Funding & Donor Analysis
    Visualizations
-      - 15 Top-Funded Initiatives
-      - Funding Distribution Across Regions   
+   - 15 Top-Funded Initiatives
+   - Funding Distribution Across Regions   
 
   
