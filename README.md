@@ -65,7 +65,7 @@ The database follows a relational structure:
    - One initiative can receive multiple donations
    - Donations serve as the transactional bridge between donors and initiatives
 
-![erd_iamge](https://github.com/olasunkanmitheCoder/GoodThought-NGO-Impact-Analysis/blob/main/ERD_diagram.jpeg)
+![erd_iamge](https://github.com/olasunkanmitheCoder/GoodThought-NGO-Impact-Analysis/blob/main/img/ERD_diagram.jpeg)
 > > ERD Diagram
 
 ## Data Preparation & Validation
