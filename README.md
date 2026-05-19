@@ -141,11 +141,22 @@ The insights generated from this analysis are expected to help GoodThought NGO:
 - Support evidence-based strategic planning
 - Identify underserved operational regions
 
-## Conclusion
+## Tools & Technologies
+### Database & Querying
+   - PostgreSQL
+   - pgAdmin 4
+   - SQL
+### Data Visualization
+   - Microsoft Power BI
+### Version Control & Documentation
+   - GitHub
+   - Markdown Documentation
 
+## Conclusion
 This project demonstrates how data analytics can support humanitarian organizations in evaluating operational effectiveness, improving donor engagement, and strengthening strategic funding opportunities.
 By combining PostgreSQL, SQL analytics, data validation, and Power BI storytelling, the project transforms raw operational data into actionable business intelligence that supports measurable social impact and grant-readiness decision-making.
+
 The final solution simulates a real-world NGO analytics consulting engagement and showcases practical skills in:
-- Relational database design
-- Data validation
-- SQL analytics
+   - Relational database design
+   - Data validation
+   - SQL analytics
