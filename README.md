@@ -150,7 +150,13 @@ The insights generated from this analysis are expected to help GoodThought NGO:
    - Microsoft Power BI
 ### Version Control & Documentation
    - GitHub
-   - Markdown Documentation
+
+## Recommendation
+   - Increase investments in regions with high impact efficiency.
+   - Target organizational donors for long-term sustainability.
+   - Replicate high-performing initiatives(assignments) across the underperforming region.
+   - Improve funding allocation toward projects with strong donation-to-impact ratios.
+   - Increase funding on low-funded initiatives with high impact score.
 
 ## Conclusion
 This project demonstrates how data analytics can support humanitarian organizations in evaluating operational effectiveness, improving donor engagement, and strengthening strategic funding opportunities.
@@ -160,3 +166,9 @@ The final solution simulates a real-world NGO analytics consulting engagement an
    - Relational database design
    - Data validation
    - SQL analytics
+   - Business intelligence
+   - Dashboard development
+   - Strategic storytelling
+   - Data-driven decision-making
+   - Executive reporting
+
