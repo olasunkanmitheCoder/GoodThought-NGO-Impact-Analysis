@@ -128,7 +128,8 @@ The dashboard was designed as an executive-level NGO intelligence solution consi
    Visualizations
    - Region-Based Funds Level
    - Top 30 Low-Funded Initiatives
-  
+![dashboard_display](https://github.com/olasunkanmitheCoder/GoodThought-NGO-Impact-Analysis/blob/main/img/GoodThought_NGO_BI_dashboard.mp4)
+
 ## Expected Business Impact
 The insights generated from this analysis are expected to help GoodThought NGO:
 - Improve grant proposal credibility
