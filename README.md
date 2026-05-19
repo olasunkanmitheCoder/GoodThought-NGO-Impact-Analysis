@@ -105,7 +105,7 @@ The analysis was conducted using PostgreSQL and included:
 
 ## Power BI Dashboard Structure
 The dashboard was designed as an executive-level NGO intelligence solution consisting of four analytical pages.
-### Dashboard Page 1 — Executive Overview
+### Dashboard Page 1 — Overview
    Key KPIs
    - Total Donations
    - Total Donor Transactions
